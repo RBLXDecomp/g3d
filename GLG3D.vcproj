@@ -1012,6 +1012,10 @@
 				</FileConfiguration>
 			</File>
 			<File
+				RelativePath=".\GLG3Dcpp\ToneMap.cpp"
+				>
+			</File>
+			<File
 				RelativePath="GLG3Dcpp\UserInput.cpp"
 				>
 				<FileConfiguration
@@ -1283,6 +1287,10 @@
 			</File>
 			<File
 				RelativePath="include\GLG3D\TextureManager.h"
+				>
+			</File>
+			<File
+				RelativePath=".\include\GLG3D\ToneMap.h"
 				>
 			</File>
 			<File
